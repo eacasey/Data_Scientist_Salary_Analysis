@@ -1,4 +1,4 @@
-# Data_Scientist_Salary_Analysis
+# Data Scientist Salary Analysis
 
 - For this project, I seek to explore some data that I found on Kaggle, which contains information about various data scientist positions. Relevant variables include 
 years of experience required, location, salary ranges (coded), and job descriptions. 
