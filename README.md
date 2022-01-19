@@ -5,6 +5,6 @@ years of experience required, location, salary ranges (coded), and job descripti
 
 - I begin by conducting an exploratory data analysis and also doing some data manipulation and data cleaning.
 
-- I then move on to modeling and exploring various classification algorithms. As of the time of this wriing, I am currently still in the modeling phase and am still
+- I then move on to modeling and exploring various classification algorithms. As of the time of this writing, I am currently still in the modeling phase and am still
 working to improve the model accuracy while also decreasing the number of features. I will update this as I make progress. 
 
